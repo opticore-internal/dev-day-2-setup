@@ -120,7 +120,7 @@ You will then need to add the font to VSCode. To do this you need to open your u
 chsh -s $(which zsh)
 ```
 
-## Step 2: Python
+## Step 4: Python
 
 Installing poetry:
 
